@@ -2,7 +2,7 @@ require('dotenv').config();
 
 module.exports = {
   SESSION_ID: process.env.SESSION_ID || '',
-  BOT_ADMIN: process.env.BOT_ADMIN || '254712345678',
+  BOT_ADMIN: process.env.BOT_ADMIN || '233598710283',
   PORT: parseInt(process.env.PORT) || 20087,
   GITHUB_USERNAME: process.env.GITHUB_USERNAME || '',
   BOT_PASSWORD: parseInt(process.env.BOT_PASSWORD) || 12345678,
