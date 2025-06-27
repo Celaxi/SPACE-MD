@@ -16,12 +16,12 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
+    "value": "CYPHER-X:~UEsDBBQAAAgIAHqx21ogM+LCTQQAAHEHAAAKAAAAY3JlZHMuanNvbpVUW4+iSBT+L*WqGbkIXpJOFmlFQBoRRGWzDyUUUMjNoqCFif99g05PTzbZ2V6eiqrKOd*5LvUd5AWukI5aMP8OSoIbSFG*pG2JwBws6jBEBAxBACkEcyBpZJwppFh1NGm5vcdvV*Aop8wms*SRzUSVC*VlVtZLJXoB9yEo63OK*d8UHPjplRN9JWwMd8XtT6txkJuLQjqQboudxeKy9Y7H94yLGekF3PuKEBOcR8syRhkiMNVRu4WYfA2+L+9nk+Y1mZxi5oCty3krXU+7i8GuUjSzWWQZarSNz4vb8Yvwtfo1GHFcqEA2Da3D+nXrBa2Vao5WuquzzjOWS3ghOF0z6wm*wlGOAjVAOcW0*TLvpt61+ilgkjCxkRx3N5FwwYDbHxArZhId5J2wuW5Z2LDLLwLfH1xR5tbhNaMrQ4FEzvBuORpNMtEIbVs7jCxNvx3eOIX5FfiWfHjl8n94F1e5NQqrjOWKG8L6NbOc3dbpEk1g+cR5exdMwfF5Xttkl6*BZwZNE+RX6Q0ubpsxKV99h65UbxwEu4nOocHB8PmNxEzHl+knfEhr8luSTXW*14yrKGBd9fJE9s62c5qE*G3rCp07MhJixqSeHEt5tlnvBkUxSexcoZmXnBsaqoVmtNPk+GbN8tHN75Rgw2NJenlMdEGtGoA5ex8CgiJcUQIpLvJ+T+SGAAaNjXyC6INdwLU5e6m9tV0Rjy1Ni0ama8hTJlEZzV3UJXcyiSuj0rCsFzAEJSl8VFUoWOOKFqQ1UFXBCFVg*udfQ5CjG33q1nfj2SEIManoPq*LtIDBh6gfh9D3izqndpv7cr9ABMyZz21EKc6jqqexziHxY9wgOYa0AvMQphX6OSAiKABzSmr0M7RyEfS8n44zd3ayV2AIsoceOOhn5nlhNp2wDDfl55z4R*XtvS8Ly*JbjigYgvRxjRVmwoybTBlRZKbipL*ZH9x*IuwLBohCnFZgDmQN27nBKEtdr0eGqiiSH0lyJIHPiT6c8aQe88tR17Uet9GMyzjbe2pt7t29E5uEtKvYjDqNeFJ6LJ*U*7MImAMSrFnb3DVnt4ONdeGvNSro7mqH3TgVD9GACkY+Gxw9qo0OJXt53esr*7JRuIrUR+VWFYnV8MtAcBvxKprCQd55Wf6w0RAEqME++rUZq76JnoVReqBJK1DNHe2K0jRxio3F4BLPHNZpC+UEBfltqtYHr13n8ehddf1WqmIYJlwRpkcKYYfdGnpqqFA6k62nZx+ZSX+8Vfhhp16r*jfE6BH9HPYK*rd2T+C9xZj78JcaPx6Tfwnk4kRv2+l0mgW4dTRTSxV7k6Qrdzl2ruI0PjmF0ULO0lxxvwT3+19DUKaQhgXJwBzAPCAFDsAQkKLuPavmYfGbZrIUqVL0nDyFFZU+c+DgDFUUZiWYsxOBZUSOZ5nnrS0pyjWs4p4EZSxldW*qVipLm0L6ESsg9d+ybsH9b1BLAQIUAxQAAAgIAHqx21ogM+LCTQQAAHEHAAAKAAAAAAAAAAAAAACkgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAHUEAAAAAA==",
     "required": false
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "233598710283",
     "required": true
   },
   "GITHUB_USERNAME": {
@@ -31,7 +31,7 @@
   },
    "BOT_PASSWORD": {
     "description": "This will be used as auth code for others who'll connect using the app web",
-    "value": "12345678",
+    "value": "07490749",
     "required": false
   },
    "PREMIUM_KEY": {
